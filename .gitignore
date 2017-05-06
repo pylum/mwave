@@ -1,0 +1,13 @@
+.env
+.env3
+.idea
+*.pyc
+*.db
+*.swp
+*.swo
+__pycache__
+secret.txt
+pip-log.txt
+.anaconda
+.codeintel
+requirements_dev.txt
