@@ -7,7 +7,7 @@
 # sudo apt-get install flac
 # sudo apt-get install portaudio19-dev
 
-numpy==1.12.1
+numpy==1.13.3
 scipy==0.19.0
 
 addict==2.1.0
